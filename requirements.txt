@@ -1,0 +1,6 @@
+python-telegram-bot==21.5
+firebase-admin==6.5.0
+openai==1.43.0
+configparser==7.1.0 
+yagmail==0.15.293
+minify_html==0.15.0 
