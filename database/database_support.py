@@ -1,6 +1,6 @@
 import firebase_admin
 from firebase_admin import credentials, firestore
-from bot.config import load_config
+from utils.config import load_config
 
 config = load_config()
 

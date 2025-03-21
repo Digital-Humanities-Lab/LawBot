@@ -1,6 +1,6 @@
 import yagmail
 import os
-from bot.config import load_config
+from utils.config import load_config
 import minify_html
 
 # Load configuration
